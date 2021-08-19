@@ -7,6 +7,7 @@ class EmotionTable extends React.Component {
         <div>
           {/*You can remove this line and the line below. */}
           {/*JSON.stringify(this.props.emotions)*/}
+    
           <table className="table table-bordered">
             <tbody>
             
